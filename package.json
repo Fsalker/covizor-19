@@ -1,0 +1,13 @@
+{
+  "workspaces": [
+    "front-end",
+    "back-end"
+  ],
+  "name": "covizor-19",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.0"
+  }
+}
